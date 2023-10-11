@@ -1,4 +1,4 @@
-[English](https://github.com/yunshuipiao/AlgoDS) | 简体中文
+[English](https://github.com/yunshuipiao/AlgoDS)#| 简体中文
 # 算法与数据结构
 
 这是 一份 **算法和数据结构** 和 **面试题目**（附解答）的集合。
@@ -166,3 +166,4 @@
 ## 贡献
 
 发现bug？另一种更好的方法？请提交PR。
+ 
